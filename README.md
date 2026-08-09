@@ -116,6 +116,26 @@ I tested The stand using a flower pot stand on it. I checked the pot is standing
 ## Project time
 
 **Total time** - 
+- journal part 1: 1.1 hours
+- journal part 2: 7.3 hours
+- journal part 3: 1.4 hours
+- journal part 4: 2 hours 
+
+----
+
+## BOM (bill of materials)
+
+No. | Components | quantity | purpose 
+| cost
+
+1.| rough notebook| 1 | for project idea and rough sketch | 0
+2.| CAD software | 1 | for 3D design | 0
+3.| flower pot | 1 | for testing | 50
+4.| computer | 1 | CAD design and documentation | 0
+5.| 3D printing service | 1 | because my 3D printer was broken | 150 
+6.| 3D printed pot stand | 1 | removing extra parts | 50
+
+** Total estimated cost ** - 250 
 
 ----
 
