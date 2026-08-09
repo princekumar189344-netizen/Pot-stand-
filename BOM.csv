@@ -1,0 +1,9 @@
+Item,Quantity,Type/Material,Purpose,Cost
+
+3D printed pot stand,1,Plastic,Final hardware project,₹50 INR
+3D printing service,1,Local shop service,Printing the CAD model,₹150 INR
+Computer,1,PC/Laptop,Making the CAD design and preparing the STL file,₹0 INR
+CAD software,1,CAD software,Designing the pot stand,₹0 INR
+Flower pot,1,Plastic,Testing the stand,₹50 INR
+
+Total estimated cost: ₹250 INR
