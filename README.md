@@ -102,6 +102,9 @@ I tested The stand using a flower pot stand on it. I checked the pot is standing
 #### legs view 
 <img width="4096" height="2304" alt="1000220379" src="https://github.com/user-attachments/assets/9978ba3d-0de4-4eb5-9ba5-e70beeac62ae" />
 
+#### demo video 
+https://github.com/user-attachments/assets/5de23a6d-5960-492a-8ac8-8e7f34e6c6d6
+
 ----
 
 ## project files
