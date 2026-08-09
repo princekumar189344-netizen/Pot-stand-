@@ -131,10 +131,10 @@ https://github.com/user-attachments/assets/5de23a6d-5960-492a-8ac8-8e7f34e6c6d6
 No. | Components | quantity | purpose 
 | cost
 
-1.| rough notebook| 1 | for project idea and rough sketch | 0
-2.| CAD software | 1 | for 3D design | 0
+1.| rough notebook| 1 | for project idea and rough sketch | ₹0
+2.| CAD software | 1 | for 3D design | ₹0
 3.| flower pot | 1 | for testing | ₹50
-4.| computer | 1 | CAD design and documentation | 0
+4.| computer | 1 | CAD design and documentation | ₹0
 5.| 3D printing service | 1 | because my 3D printer was broken | ₹150 
 6.| 3D printed pot stand | 1 | removing extra parts |  ₹50
 
