@@ -1,0 +1,8 @@
+Item,Quantity,Type/Material,Purpose,cost
+3D printed pot stand,1,Plastic,Final hardware project,50
+3D printing service,1,Local shop service,Printing the CAD model,150
+Computer,1,PC/Laptop,Making the CAD design and preparing the STL file,0 
+CAD software,1,CAD software,Designing the pot stand,0
+Flower pot,1,Plastic,Testing the stand,50
+
+Total estimated cost: 250
